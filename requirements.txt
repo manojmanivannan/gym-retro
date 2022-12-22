@@ -1,0 +1,11 @@
+cloudpickle==2.2.0
+gym==0.21.0
+gym-notices==0.0.8
+gym-retro==0.8.0
+importlib-metadata==4.13.0
+numpy==1.21.6
+pyglet==1.5.27
+PyOpenGL==3.1.6
+PyOpenGL-accelerate==3.1.5
+typing-extensions==4.4.0
+zipp==3.11.0
